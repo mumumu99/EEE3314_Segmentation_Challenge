@@ -8,3 +8,15 @@
 - https://www.kakaobrain.com/blog/48
 - https://brunch.co.kr/@kakao-it/77
 - https://yhu0409.tistory.com/9 (Few dataset solution)
+
+---
+
+# 진행상황
+- *Unet_hands_on(epoch=200,_pretrained=False, num_classes=7).ipynb* 에서 multi-class segmentation을 구현하여 결과를 출력하였다.
+- Background와 S1은 prediction을 잘 했는데 L1,L2,L3,L4,L5는 잘 prediction하지 못했다.
+## 개선점
+- Lumbar Spine이 왜 겹쳐서 인식되는걸까? -> Image preprocess 문제?, Mask preprocess 문제?
+- 일단 가장 먼저 Mask data를 jpg말고 png로 저장하기
+- Val data 올라온거 다운받고 다시 돌려보기
+- Image data를 선명하게 해볼까?
+- K-Fold Cross Validation?
