@@ -20,3 +20,9 @@
 - Val data 올라온거 다운받고 다시 돌려보기 -> Val data에 라벨 없음, 제출용 데이터
 - Image data를 선명하게 해볼까?
 - K-Fold Cross Validation?
+
+---
+
+# Preprocess
+### 데이터 불러오기
+- dcm을 numpy로 불러올 때 pydicom 라이브러리 사용하면 오류뜸
