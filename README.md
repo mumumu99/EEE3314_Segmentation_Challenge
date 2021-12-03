@@ -16,7 +16,7 @@
 - Background와 S1은 prediction을 잘 했는데 L1,L2,L3,L4,L5는 잘 prediction하지 못했다.
 ## 개선점
 - Lumbar Spine이 왜 겹쳐서 인식되는걸까? -> Image preprocess 문제?, Mask preprocess 문제?
-- 일단 가장 먼저 Mask data를 jpg말고 png로 저장하기
-- Val data 올라온거 다운받고 다시 돌려보기
+- 일단 가장 먼저 Mask data를 jpg말고 png로 저장하기 -> 완료
+- Val data 올라온거 다운받고 다시 돌려보기 -> Val data에 라벨 없음, 제출용 데이터
 - Image data를 선명하게 해볼까?
 - K-Fold Cross Validation?
