@@ -8,7 +8,7 @@
 - https://www.kakaobrain.com/blog/48
 - https://brunch.co.kr/@kakao-it/77
 - https://yhu0409.tistory.com/9 (Few dataset solution)
-- https://study-grow.tistory.com/entry/semantic-segmentation-loss-%EA%B4%80%EB%A0%A8-%EA%B3%A0%EC%B0%B0 (loss function 결정)
+- https://www.koreascience.or.kr/article/JAKO202005653790455.pdf (loss function 결정)
 
 ---
 
