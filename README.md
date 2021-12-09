@@ -10,7 +10,7 @@
 - https://yhu0409.tistory.com/9 (Few dataset solution)
 - https://www.koreascience.or.kr/article/JAKO202005653790455.pdf (loss function 결정)
 ## 논문
-- https://arxiv.org/pdf/1904.07624.pdf
+- https://arxiv.org/pdf/1904.07624.pdf (Lumbar Semantic Segmentation paper)
 
 ---
 
